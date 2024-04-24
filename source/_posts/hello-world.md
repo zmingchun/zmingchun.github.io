@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2016-06-02 17:00:00
 ---
 
 Welcome to My Blog.
