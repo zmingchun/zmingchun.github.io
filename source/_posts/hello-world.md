@@ -2,8 +2,6 @@
 title: Hello World
 ---
 
-# Hello World
-
 Welcome to My Blog.
 
 ## About Me
