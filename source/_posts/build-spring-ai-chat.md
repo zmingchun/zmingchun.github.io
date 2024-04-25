@@ -1,6 +1,6 @@
 ---
 title: Build an AI chat application using the spring-ai library.
-date: 2024-04-24 23:30:31
+date: 2024-04-24 23:30:35
 tags:
 ---
 
