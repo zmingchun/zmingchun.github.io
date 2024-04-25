@@ -1,0 +1,7 @@
+{
+    "settings": { 
+        "terminal.integrated.env.linux": {
+            "TZ": "Asia/Shanghai"
+        }
+    }
+}
