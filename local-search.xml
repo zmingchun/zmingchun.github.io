@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Build an AI chat application using the spring-ai library.</title>
+    <link href="/2024/04/24/clvg4asvc00019n5y8v7150l2/"/>
+    <url>/2024/04/24/clvg4asvc00019n5y8v7150l2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><p>Crafted on Spring AI framework, this app integrates a Spring Boot backend with a Next.js frontend enhanced by Tailwind CSS styling. It excels at smart, personalized conversations via Spring AI’s capabilities, including Retrieval-Augmented Generation.</p><h2 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h2><ul><li><strong>Spring AI</strong>: The backend is powered by Spring AI, a cutting-edge AI framework that offers a wide range of AI capabilities.</li><li><strong>Next.js</strong>: The frontend is built with Next.js, a React-based framework that enables server-side rendering and efficient data fetching.</li><li><strong>Tailwind CSS</strong>: The frontend is styled with Tailwind CSS, a utility-first CSS framework that enables rapid and consistent styling.</li><li><strong>Retrieval-Augmented Generation</strong>: Spring AI’s Retrieval-Augmented Generation (RAG) feature allows the app to generate responses based on relevant context from a database.</li></ul><p>This application is a perfect example of how Spring AI can be used to build a chat application with smart, personalized conversations.</p><h2 id="Project-Implementation-Process"><a href="#Project-Implementation-Process" class="headerlink" title="Project Implementation Process"></a>Project Implementation Process</h2><p>Due to a busy work schedule, the progress of this project will be slow. It is currently under development, please stay tuned.</p><h2 id="Implementation-Ideas"><a href="#Implementation-Ideas" class="headerlink" title="Implementation Ideas"></a>Implementation Ideas</h2><p>Coming soon……</p><h2 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use"></a>How to use</h2><ol><li>Clone the repository: <a href="https://github.com/zmingchun/spring-ai-chat.git">https://github.com/zmingchun/spring-ai-chat.git</a></li><li>Start the backend server: <code>cd backend &amp;&amp; mvn spring-boot:run</code></li><li>Install the frontend dependencies: <code>cd frontend &amp;&amp; pnpm install</code></li><li>Start the frontend server: <code>cd frontend &amp;&amp; pnpm run</code></li><li>Open your browser and navigate to <a href="http://localhost:3000/">http://localhost:3000</a></li></ol><p>Enjoy it !</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
