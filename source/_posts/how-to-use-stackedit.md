@@ -1,7 +1,7 @@
 ---
 title: 【Republished】How to use StackEdit!
 date: 2024-04-26 19:30:35
-author: [stackedit.io](https://stackedit.io)
+author: https://stackedit.io
 tags: [markdow,editer,online,github]
 ---
 # Files
@@ -143,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDE2MjU0NCwtMTMwNzIwMDcwNSwxOT
-U0ODA3NTc4LC0xMTY0NzMzNTA1XX0=
+eyJoaXN0b3J5IjpbMzI4MTE0OTU5LC0xMzA3MjAwNzA1LDE5NT
+Q4MDc1NzgsLTExNjQ3MzM1MDVdfQ==
 -->
