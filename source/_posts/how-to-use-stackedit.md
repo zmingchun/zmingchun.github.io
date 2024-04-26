@@ -1,5 +1,5 @@
 ---
-title: [Republished]How to use StackEdit!
+title: 【Republished】How to use StackEdit!
 date: 2024-04-26 19:30:35
 author: stackedit.io
 tags: [markdow,editer,online,github]
@@ -143,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1Nzg2NTAzLC0xMzA3MjAwNzA1LDE5NT
+eyJoaXN0b3J5IjpbOTIzODM3Mzc0LC0xMzA3MjAwNzA1LDE5NT
 Q4MDc1NzgsLTExNjQ3MzM1MDVdfQ==
 -->
