@@ -4,9 +4,6 @@ date: 2024-04-26 19:30:35
 author: stackedit.io
 tags: [markdow,editer,online,github]
 ---
-# How to use StackEdit!
-
-
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -146,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDcyMDA3MDUsMTk1NDgwNzU3OCwtMT
-E2NDczMzUwNV19
+eyJoaXN0b3J5IjpbNDQ1Nzg2NTAzLC0xMzA3MjAwNzA1LDE5NT
+Q4MDc1NzgsLTExNjQ3MzM1MDVdfQ==
 -->
