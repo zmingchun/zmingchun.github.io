@@ -1,5 +1,5 @@
 ---
-title: Build an AI chat application using the spring-ai library.
+title: 【TODO】Build an AI chat application using the spring-ai library.
 date: 2024-04-24 23:30:35
 tags: [spring, spring-ai, ai, ai-chat]
 ---
@@ -32,3 +32,6 @@ Coming soon……
 5. Open your browser and navigate to http://localhost:3000
 
 Enjoy it !
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIzNzgxMTU4NV19
+-->
