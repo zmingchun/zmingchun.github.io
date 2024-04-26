@@ -952,7 +952,7 @@ about:
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/logo/logo_default.png
-  # name: "时光会见证付出"
+  name: "二明爱折腾"
   intro: "我是一名程序员，喜欢折腾各种技术，喜欢分享，喜欢交流。博客是用来记录一些技术相关的内容，中英文皆有，欢迎访问我的博客。"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
