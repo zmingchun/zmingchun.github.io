@@ -1,12 +1,13 @@
 {
-  "name": "effortwitnessed",
+  "name": "DevJourney",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "oneClick": "hexo clean && hexo generate && hexo deploy"
   },
   "hexo": {
     "version": "7.2.0"
@@ -22,6 +23,7 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
+    "hexo-theme-fluid": "^1.9.7",
     "hexo-theme-next": "^8.19.2"
   }
 }

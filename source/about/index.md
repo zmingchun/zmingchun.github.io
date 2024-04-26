@@ -1,6 +1,7 @@
 ---
 title: About Me
 date: 2016-06-02 00:00:00
+layout: about
 ---
 
 Welcome to My Blog.
