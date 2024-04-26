@@ -1,7 +1,7 @@
 ---
 title: How to use StackEdit!
-date: 2024-04-24 23:30:35
-tags: [spring, spring-ai, ai, ai-chat]
+date: 2024-04-26 19:30:35
+tags: [markdow,editer,online,github]
 ---
 # How to use StackEdit!
 
@@ -147,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIwMzA0NDJdfQ==
+eyJoaXN0b3J5IjpbLTExNjQ3MzM1MDVdfQ==
 -->
